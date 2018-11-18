@@ -1,0 +1,19 @@
+
+.tooltip {
+    background: rgba(248,248,248, 0.8);
+    color: #696969;
+
+    box-shadow: 0;
+    font-size: 12px;
+    left: 130px;
+    padding: 10px;
+    position: absolute;
+    text-align: center;
+    top: 95px;
+    z-index: 10;
+    display: block;
+}
+
+.title{
+font-size:16px;
+}
