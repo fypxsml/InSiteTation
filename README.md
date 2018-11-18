@@ -34,11 +34,6 @@ This is a web-based **Asset Inventory Management and Tracking System** for Heavy
 ## Library Used
 * Site Point Nicer QR Reader: https://www.sitepoint.com/create-qr-code-reader-mobile-website/
 
-
-## Theme Used
-
-* Dashboard: [AdminLTE2](https://github.com/almasaeed2010/AdminLTE)
-
 ## Installation
 
 1. Install Node.js [here](https://nodejs.org/en/download/) to run `npm`.
