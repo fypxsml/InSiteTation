@@ -30,7 +30,7 @@
                   <h1 class="title">InSiteTation</h1>
                   <h4>Inventory . Site . Location</h4>
                   <br>
-                  <a href="https://www.youtube.com/watch?v=VUe7vcQrbF0" target="_blank" class="btn btn-danger btn-raised btn-lg">
+                  <a href="https://www.youtube.com/watch?v=QW8hX0_5qdA" target="_blank" class="btn btn-danger btn-raised btn-lg">
                       <i class="fa fa-play"></i> Watch Video
                   </a>
               </div>
